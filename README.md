@@ -15,3 +15,5 @@ A aplicação possui as seguintes funcionalidades:
 <br>
 - Exibição da página de login do Instagram com campos de entrada para nome de usuário e senha.
 - Transições suaves de imagens dentro do celular para criar uma experiência interativa.
+
+https://beatrizfelicia.github.io/Instagram/
